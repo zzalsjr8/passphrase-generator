@@ -40,4 +40,5 @@ Also, as stated on the [demo](https://atoponce.github.io/webpassgen/) for the [w
 
 ## Demo
 
-Demo: https://zzalsjr8.github.io/projects/passphrase-generator/
+Demo: https://static-rabbit.github.io/projects/passphrase-generator/
+
